@@ -1,0 +1,1 @@
+ISO stands for International Organization for Standardization, but really what it represents is sensitivity to light. The higher the number the higher the sensitivity and vise versa. 
